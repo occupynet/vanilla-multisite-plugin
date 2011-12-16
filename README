@@ -1,0 +1,1 @@
+This plugin adds a field to the signup form to assign a URL to a new user if desired. A reference to the URL is also added to categories. Accessing this URL shows only the categories and posts that are beneath the root category for the URL.
